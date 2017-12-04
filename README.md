@@ -1,7 +1,7 @@
-importing libraries,
-importing datasets,
-feature Scaling ,
-imopring SVR from SVR,
-fitting model,
-finding Y, 
+Importing libraries,
+Importing datasets,
+Feature Scaling ,
+Imopring SVR from SVR,
+Fitting model,
+Finding Y, 
 Visualising Results.
