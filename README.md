@@ -3,5 +3,5 @@ importing datasets,
 feature Scaling ,
 imopring SVR from SVR,
 fitting model,
-finding Y predict, 
+finding Y, 
 Visualising Results.
